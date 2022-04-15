@@ -7,8 +7,8 @@
 const TENANT_ID = '';
 
 // Add your tokens https://pim.crystallize.com/settings/access-tokens
-const ACCESS_TOKEN_ID = '';
-const ACCESS_TOKEN_SECRET = '';
+const ACCESS_TOKEN_ID = '408d9ae5c7db4bc6f4a6';
+const ACCESS_TOKEN_SECRET = '550d2ffc5ac67f0f8ab40ab14caad0a96aa563cc';
 
 const coreUrl = 'https://pim.crystallize.com/graphql';
 const fetch = require('node-fetch');
