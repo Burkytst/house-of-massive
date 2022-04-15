@@ -110,7 +110,7 @@ const Header = ({ tint }) => {
     <Outer>
       <Navigation color={tints[tint]}>
         <Link to="/stories" href="/stories">
-          <NavLink active={activeNav === "/stories"}>Stories</NavLink>
+          <NavLink active={activeNav === "/stories"}>Home</NavLink>
         </Link>
         <Link to="/shop" href="/shop">
           <NavLink active={activeNav === "/shop"}>Shop</NavLink>
