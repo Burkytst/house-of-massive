@@ -4,7 +4,7 @@
  */
 
 //Your tenant id (not identifier). See the tenant tab https://pim.crystallize.com/settings/tenants
-const TENANT_ID = '';
+const TENANT_ID = '623997518519bceb8e9bdd3b';
 
 // Add your tokens https://pim.crystallize.com/settings/access-tokens
 const ACCESS_TOKEN_ID = '408d9ae5c7db4bc6f4a6';
